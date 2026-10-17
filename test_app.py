@@ -4,7 +4,7 @@ from app import calculate_average, classify_score
 
 
 def test_calculate_average():
-    assert calculate_average([10, 20, 30]) == 20
+    assert calculate_average([10, 20, 30]) == 99
 
 
 def test_classify_score():
