@@ -69,3 +69,5 @@ Repositoryyn ei tallenneta salasanoja, API-avaimia tai muita salaisia tietoja.
 Tässä harjoituksessa workflow-ajot ovat hyvin lyhyitä, joten resurssien käyttö on vähäistä.
 
 Isommassa projektissa turhia ajoja voisi vähentää esimerkiksi rajaamalla workflow'n käynnistymistä vain tiettyihin brancheihin tai tiedostomuutoksiin.
+
+Harjoituksessa testattiin myös pull request -triggerin toiminta.
